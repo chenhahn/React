@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a5418ed-9315-41fe-8fc1-ee660cba8470" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cockpit/Cockpit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Persons/Person/Person.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,7 +75,11 @@
       <workItem from="1589582046343" duration="8223000" />
       <workItem from="1589642358243" duration="13789000" />
       <workItem from="1589746295803" duration="4640000" />
-      <workItem from="1589817425216" duration="7835000" />
+      <workItem from="1589817425216" duration="8703000" />
+      <workItem from="1589937904349" duration="1070000" />
+      <workItem from="1589939013505" duration="373000" />
+      <workItem from="1589939501089" duration="57000" />
+      <workItem from="1589939572567" duration="2786000" />
     </task>
     <servers />
   </component>
@@ -94,9 +98,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="887" y="367" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1589242755823" />
-    <state x="577" y="348" key="SettingsEditor" timestamp="1588702082340">
-      <screen x="63" y="0" width="1857" height="1080" />
+    <state x="576" y="348" key="SettingsEditor" timestamp="1589940200479">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state x="576" y="348" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1589940200479" />
     <state x="577" y="348" key="SettingsEditor/63.0.1857.1080@63.0.1857.1080" timestamp="1588702082340" />
     <state x="189" y="171" width="737" height="909" key="find.popup" timestamp="1589649180565">
       <screen x="62" y="0" width="1858" height="1080" />
